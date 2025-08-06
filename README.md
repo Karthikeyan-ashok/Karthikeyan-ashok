@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karthikeyan-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan-a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthikeyan-a-b681bb280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan-a-b681bb280" height="30" width="40" /></a>
 <a href="https://instagram.com/_karthii._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karthii._._" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karthikeyan161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karthikeyan161" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karthikeyan_ashokkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthikeyan_ashokkumar" height="30" width="40" /></a>
