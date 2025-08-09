@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">🎓 B.E. Computer Science & Engineering student 🔹 Passionate about Backend Development using Java, Spring Boot, MySQL 📌 Interested in Full-Stack Development and System Design 🧩 Love solving Data Structures & Algorithms problems</h3>
 
 - 📫 How to reach me **karthiknashokkumar@gmail.com**
 
