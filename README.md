@@ -4,8 +4,9 @@
 <h3 align="center">🎓 B.E. Computer Science & Engineering student 🔹 Passionate about Backend Development using Java, Spring Boot, MySQL 📌 Interested in Backend Development and System Design 🧩 Love solving Data Structures & Algorithms problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Portfolio!;Building+Scalable+Backend+Systems+with+Java+and+Spring;Solving+Problems+and+Exploring+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=600&lines=Back-End+Developer;Building+Scalable+Projects;Java+%7C+SpringBoot;Eager+to+Learn" alt="Typing SVG" />
 </p>
+
 
 ---
 
