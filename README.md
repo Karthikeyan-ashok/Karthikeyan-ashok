@@ -82,11 +82,11 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 **Coding Quotes I Love:**  
 - "Simplicity is the soul of efficiency."  
-  <sub>Austin Freeman</sub>
+  <div align="right"><sub>~Austin Freeman</sub>
 - "First, solve the problem. Then, write the code."  
-  <sub>John Johnson</sub>
+  <div align="right"><sub>~John Johnson</sub>
 - "Experience is the name everyone gives to their mistakes."  
-  <sub>Oscar Wilde</sub>
+  <div align="right"><sub>~Oscar Wilde</sub>
 ---
 
 <div align="center">
