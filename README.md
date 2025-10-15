@@ -89,3 +89,10 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 ---
 
+<div align="center">
+  
+### *"Transforming ideas into elegant, high-impact solutions, one commit at a time."*
+
+</div>
+
+---
