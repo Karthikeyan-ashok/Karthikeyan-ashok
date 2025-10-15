@@ -23,19 +23,6 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/karthikeyan-a-b681bb280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/_karthii._._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/karthikeyan161" target="_blank"><img src="https://img.shields.io/badge/CodeChef-333?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/karthikeyana161" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.leetcode.com/karthikeyan_ashokkumar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://auth.geeksforgeeks.org/user/karthikeyan_ashokkumar" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
----
-
 ## 🧰 Tech Stack & Skills
 
 ### **Programming Languages**
@@ -97,3 +84,17 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 </div>
 
 ---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/karthikeyan-a-b681bb280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/_karthii._._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/karthikeyan161" target="_blank"><img src="https://img.shields.io/badge/CodeChef-333?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/karthikeyana161" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.leetcode.com/karthikeyan_ashokkumar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/karthikeyan_ashokkumar" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
