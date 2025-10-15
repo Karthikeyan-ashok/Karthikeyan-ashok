@@ -1,10 +1,5 @@
 # Hi, I'm Karthikeyan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Back-End+Developer;Building+Scalable+Projects;Java+%7C+SpringBoot;Eager+to+Learn" alt="Typing SVG" />
-</div>
-
----
 
 ## About Me
 
@@ -19,6 +14,12 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 - 🌱 Currently learning **Spring & Spring Boot**  
 - 📫 Reach me at: [karthiknashokkumar@gmail.com](mailto:karthiknashokkumar@gmail.com)  
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Back-End+Developer;Building+Scalable+Projects;Java+%7C+SpringBoot;Eager+to+Learn" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -83,10 +84,3 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-ashok&bg_color=0D1117&color=C9D1D9&line=00D4AA&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
