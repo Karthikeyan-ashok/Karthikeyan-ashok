@@ -78,17 +78,23 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 ---
 ### 💡 Words That Inspire Me
 
+</div>
+
+**Coding Quotes I Love:**  
+- "Simplicity is the soul of efficiency."  
+  <sub>Austin Freeman</sub>
+- "First, solve the problem. Then, write the code."  
+  <sub>John Johnson</sub>
+- "Experience is the name everyone gives to their mistakes."  
+  <sub>Oscar Wilde</sub>
+---
+
 <div align="center">
   
 ### *"Transforming ideas into elegant, high-impact solutions, one commit at a time."*
 
 </div>
-</div>
 
-**Coding Quotes I Love:**  
-- "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-- "Simplicity is the soul of efficiency." – Austin Freeman  
-- "First, solve the problem. Then, write the code." – John Johnson  
 ---
 
 ## 🌐 Connect with Me
