@@ -76,13 +76,19 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 </div>
 
 ---
+### 💡 Words That Inspire Me
 
 <div align="center">
   
 ### *"Transforming ideas into elegant, high-impact solutions, one commit at a time."*
 
 </div>
+</div>
 
+**Coding Quotes I Love:**  
+- "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+- "Simplicity is the soul of efficiency." – Austin Freeman  
+- "First, solve the problem. Then, write the code." – John Johnson  
 ---
 
 ## 🌐 Connect with Me
