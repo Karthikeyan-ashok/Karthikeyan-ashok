@@ -60,13 +60,6 @@ I enjoy **building scalable backend systems** and continuously **learning new te
 
 ---
 
-## 🏆 Coding Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-ashok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## **LeetCode Progress**
 <div align="center">
