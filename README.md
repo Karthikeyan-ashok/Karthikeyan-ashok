@@ -7,12 +7,12 @@ I’m **Karthikeyan**, a **B.E. Computer Science & Engineering student** passion
 I enjoy **building scalable backend systems** and continuously **learning new technologies** to enhance my skills.  
 
 **What I Do:**
-- **Backend Development** → RESTful APIs, microservices, Spring Boot  
+- **Backend Development** → RESTful APIs, Spring Boot  
 - **System Design** → Scalable, maintainable, and robust architectures  
 - **Problem Solving** → Data Structures & Algorithms challenges (LeetCode, CodeChef, HackerRank)  
 - **Database Management** → MySQL and relational database design  
 
-- 🌱 Currently learning **Python & Spring Boot**  
+- 🌱 Currently learning **Spring Boot**  
 - 📫 Reach me at: [karthiknashokkumar@gmail.com](mailto:karthiknashokkumar@gmail.com)  
 
 ---
